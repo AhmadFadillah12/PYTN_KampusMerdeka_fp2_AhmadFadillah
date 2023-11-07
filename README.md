@@ -8,7 +8,7 @@
 2. Felic Wicent (PYTN-KS17-025)
 3. Haniefa Aulia Rahma (PYTN-KS17-01)
 - **Instructor** : Chamdan L Abdulbaaqiy
-- **Project**    : Logistic Regression dan Support Vector Machine pada Dtaset Weather Australia   
+- **Project**    : Logistic Regression dan Support Vector Machine pada Dataset Weather Australia   
 - **Bacth**      : 5
 
 
